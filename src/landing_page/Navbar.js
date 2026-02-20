@@ -54,11 +54,6 @@ function Navbar() {
                   Support
                 </Link>
               </li>
-              <li className="nav-item">
-                <Link className="nav-link active" to="https://dashboard-9l4c-git-main-sudhanshu349s-projects.vercel.app">
-                  Dashboard
-                </Link>
-              </li>
             </ul>
           </form>
         </div>
